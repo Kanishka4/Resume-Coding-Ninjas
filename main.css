@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
 :root{
-    --name_font:  'PT Sans', sans-serif;; 
+    --name_font:  'PT Sans', sans-serif; 
     --sec_font: 'Noto Sans JP', sans-serif;
 }
 body {
@@ -610,7 +610,7 @@ button:focus {
         letter-spacing: 0.1rem;
         color: white;
         font-weight: 700;
-        font-family: var(--name_font);
+        /*font-family: var(--name_font);*/
         margin-bottom: 0.5rem;
     }
     .social-icons li a i {
