@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
@@ -610,7 +610,7 @@ button:focus {
         letter-spacing: 0.1rem;
         color: white;
         font-weight: 700;
-        /*font-family: var(--name_font);*/
+        font-family: var(--name_font);
         margin-bottom: 0.5rem;
     }
     .social-icons li a i {
